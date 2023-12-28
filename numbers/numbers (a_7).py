@@ -1,0 +1,5 @@
+a_1 = int(input())
+b = int(input())
+n = int(input())
+num = a_1 + b * (n - 1)
+print(num)
